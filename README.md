@@ -4,7 +4,7 @@
 <p><strong>
 Ett projekt av Nicholas Peters, Tittie Thomasson och Liza Grapensparr
 </strong></p>
-<small><a href="https://grapensparr.github.io/Coffee-shop/">
+<small><a href="https://grapensparr.github.io/Coffee-shop/" target="_blank">
 Länk till live-sidan </a></small>
 <hr>
 
