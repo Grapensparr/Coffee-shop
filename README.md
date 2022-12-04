@@ -4,7 +4,7 @@
 <p><strong>
 Ett projekt av Nicholas Peters, Tittie Thomasson och Liza Grapensparr
 </strong></p>
-<small><a href="https://medieinstitutet.github.io/fed22d-js-grundkurs-gruppuppgift-webbshop-superfantasticultratrio/">
+<small><a href="https://grapensparr.github.io/Coffee-shop/">
 Länk till live-sidan </a></small>
 <hr>
 
